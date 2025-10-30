@@ -1,3 +1,17 @@
+<!-- 🔮 Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=200&section=header&text=habiba&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- 💡 Middle Quote Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=8000FF&center=true&vCenter=true&width=550&lines=Front-End+Developer+%7C+Data+Science+Learner+💡;Always+learning+and+building+cool+stuff+🚀;Welcome+to+my+GitHub+Profile!"/>
+</p>
+
+<!-- 🌙 Bottom Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=100&section=footer"/>
+</p>
 ![Hey there, I'm Habiba. I'm a Front-End Developer & Data Scientist. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Habiba%20Hany-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habiba-hany-752829330) &nbsp;
