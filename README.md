@@ -3,12 +3,11 @@
 
 <!-- ✨ Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8000FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%7C+Data+Scientist;Welcome+to+my+GitHub+Profile!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=8000FF&center=true&vCenter=true&width=500&lines=I'm+a+Front-End+Developer+%26+Data+Scientist;Student+at+Benha+University;Welcome+to+my+GitHub+Profile!"/>
 </p>
 
 <!-- 🌙 Bottom Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8000ff,100:000000"/>
-
 
 ![Hey there, I'm Habiba. I'm a Front-End Developer & Data Scientist. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
