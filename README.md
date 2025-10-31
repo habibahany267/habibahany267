@@ -51,30 +51,40 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 ---
 
 <!-- 📊 GitHub Stats -->
-<p>
-  <a href="https://github.com/HabibaHany">
-    <img width="55%" align="right" alt="Habiba's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HabibaHany&show_icons=true&hide_border=true" />
-  </a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HabibaHany&show_icons=true&theme=radical&bg_color=0d1116&title_color=ff69b4&text_color=a4aacb&icon_color=ff69b4" alt="Habiba's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HabibaHany&theme=radical&background=0d1116&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaHany&layout=compact&theme=radical&bg_color=0d1116&title_color=ff69b4&text_color=a4aacb" alt="Top Languages" />
+</p>
 ---
 
-<!-- 📌 Featured Projects -->
+## 📌 Featured Projects
+
 <p align="center">
   <a href="https://github.com/HabibaHany/Portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Portfolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Portfolio&theme=radical" />
   </a>
   <a href="https://github.com/HabibaHany/Data-Analysis-Projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Data-Analysis-Projects" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Data-Analysis-Projects&theme=radical" />
   </a>
 </p>
 
 ---
 
-<!-- 👣 Visitor Count -->
+## 👣 Visitor Count
+
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/HabibaHany/HabibaHany.svg" />
 </p>
+
 
 ---
 
