@@ -64,6 +64,7 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University ğŸ
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabibaHany&layout=compact&theme=radical&bg_color=0d1116&title_color=ff69b4&text_color=a4aacb" alt="Top Languages" />
 </p>
+
 ---
 
 ## ğŸ“Œ Featured Projects
@@ -84,8 +85,6 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University ğŸ
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/HabibaHany/HabibaHany.svg" />
 </p>
-
-
 ---
 
 <!-- âœ¨ Footer -->
