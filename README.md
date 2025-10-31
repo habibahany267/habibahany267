@@ -22,7 +22,7 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 - 🤝 Open to collaboration on Data Science & Front-End projects  
 - 💬 Ask me anything, I’d love to help  
 - ⚡️ Fun Fact: I love combining creativity with logic to build smart user experiences  
-- 📫 How to reach me: your_email_here@gmail.com
+- 📫 How to reach me: habibaelmeligy267@gmail.com
 
 ---
 
