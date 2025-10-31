@@ -1,62 +1,81 @@
-<!-- 🎬 GIF Banner -->
-![Hey there, I'm Habiba. I'm a Front-End Developer & Data Scientist. Check out my work](https://github.com/HabibaHany/HabibaHany/raw/main/header.gif)
+<!-- 👩‍💻 Title -->
+## Hi, I'm Habiba Hany, a Front-End Developer & Data Scientist 🚀  
+Student at Faculty of Computers and Artificial Intelligence, Benha University 🇪🇬
 
-<!-- 👋 Welcome -->
-<div align="center">
-  <h2>Welcome to my GitHub Profile!</h2>
-  <h3>I'm a Front-End Developer & Data Scientist</h3>
-  <p>Student at Faculty of Computers and Artificial Intelligence, Benha University</p>
-</div>
-
----
-
-## 🧰 Tools I Use
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<!-- 🔗 Social Badges -->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/HabibaHany)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/habiba-hany-752829330)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_here)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/your_facebook_here)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:your_email_here@gmail.com)
 
 ---
 
-## 📚 Currently Learning
+<!-- 🧠 About Me -->
+**Talking about Personal Stuffs:**
 
-- Full-Stack Development with React & Node.js
-- Machine Learning & Data Visualization
-- C++ & Algorithms
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
----
-
-## 📊 GitHub Stats
-
-![Habiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HabibaHany&show_icons=true&bg_color=0d1116&title_color=ff69b4&text_color=a4aacb&icon_color=ff69b4)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HabibaHany&theme=dark&count_private=true&background=0d1116&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Habiba%20Hany-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habiba-hany-752829330)
-[![GitHub](https://img.shields.io/badge/GitHub-HabibaHany-181717?style=for-the-badge&logo=github)](https://github.com/HabibaHany)
+- 👩‍💻 Currently learning Full-Stack Development with React & Node.js  
+- 📊 Exploring Machine Learning & Data Visualization  
+- 🤝 Open to collaboration on Data Science & Front-End projects  
+- 💬 Ask me anything, I’d love to help  
+- ⚡️ Fun Fact: I love combining creativity with logic to build smart user experiences  
+- 📫 How to reach me: your_email_here@gmail.com
 
 ---
 
-## ✨ Fun Fact
+<!-- 🧰 Languages and Tools -->
+**Languages and Tools:**
 
-💡 I believe in combining creativity with logic to build intelligent user experiences.  
-📚 Always learning, always building.  
-🎯 Motto: _"Code. Learn. Create. Repeat."_
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/html5/html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/css3/css3-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/powerbi/powerbi-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
 
 ---
 
-⭐️ From [HabibaHany](https://github.com/HabibaHany)
+<!-- 📊 GitHub Stats -->
+<p>
+  <a href="https://github.com/HabibaHany">
+    <img width="55%" align="right" alt="Habiba's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HabibaHany&show_icons=true&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<!-- 📌 Featured Projects -->
+<p align="center">
+  <a href="https://github.com/HabibaHany/Portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Portfolio" />
+  </a>
+  <a href="https://github.com/HabibaHany/Data-Analysis-Projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Data-Analysis-Projects" />
+  </a>
+</p>
+
+---
+
+<!-- 👣 Visitor Count -->
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/HabibaHany/HabibaHany.svg" />
+</p>
+
+---
+
+<!-- ✨ Footer -->
+**This README was created by Habiba Hany – Front-End Developer & Data Scientist**
