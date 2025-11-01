@@ -17,7 +17,7 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👩‍💻 Currently learning Full-Stack Development with React & Node.js  
+- 👩‍💻 Currently learning Front-end Development & Data science 
 - 📊 Exploring Machine Learning & Data Visualization  
 - 🤝 Open to collaboration on Data Science & Front-End projects  
 - 💬 Ask me anything, I’d love to help  
