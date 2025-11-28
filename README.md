@@ -15,7 +15,6 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 - 🔐 Exploring Ethical Hacking, Network Security & Web Security  
 - 🤝 Open to collaboration on Cybersecurity & Front-End projects  
 - 💬 Ask me anything, I’d love to help  
-- ⚡ Fun Fact: I love combining creativity with logic to build secure and smart user experiences  
 - 📫 How to reach me: habibaelmeligy267@gmail.com
 
 ---
@@ -23,10 +22,10 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 ## 🛠 Languages and Tools
 
 ### 🎨 Front-End Development
-HTML5 💻 | CSS3 🎨 | JavaScript ⚡ | React ⚛️ | TailwindCSS 🌬️ | VSCode 🖥️ | GitHub 🐙
+💻 HTML5 | 🎨 CSS3 | ⚡ JavaScript | ⚛️ React | 🌬️ TailwindCSS | 🖥️ VSCode | 🐙 GitHub
 
 ### 🔐 Cybersecurity
-Python 🐍 | Kali Linux 🐧 | Wireshark 🌊 | Metasploit 🛡️ | Burp Suite 🔓 | Nmap 🌐 | MySQL 🐬
+🐍 Python | 🐧 Kali Linux | 🌊 Wireshark | 🛡️ Metasploit | 🔓 Burp Suite | 🌐 Nmap | 🐬 MySQL
 
 ---
 
@@ -49,7 +48,12 @@ Python 🐍 | Kali Linux 🐧 | Wireshark 🌊 | Metasploit 🛡️ | Burp Suite
 ## 📌 Featured Projects
 
 <p align="center">
-💼 <a href="https://github.com/HabibaHany/Portfolio">Portfolio</a> | 🛡️ <a href="https://github.com/HabibaHany/Cybersecurity-Projects">Cybersecurity Projects</a>
+  <a href="https://github.com/HabibaHany/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Portfolio&theme=radical" />
+  </a>
+  <a href="https://github.com/HabibaHany/Cybersecurity-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Cybersecurity-Projects&theme=radical" />
+  </a>
 </p>
 
 ---
@@ -57,8 +61,8 @@ Python 🐍 | Kali Linux 🐧 | Wireshark 🌊 | Metasploit 🛡️ | Burp Suite
 ## 👣 Visitor Count
 
 <p align="center">
-👀 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/HabibaHany/HabibaHany.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/HabibaHany/HabibaHany.svg" />
 </p>
 ---
 
-**This README was created by Habiba Hany – Front-End Developer & Cybersecurity Enthusiast 🔒**
+**This README was created by Habiba Hany – Front-End Developer & Cybersecurity Enthusiast**
