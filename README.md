@@ -92,11 +92,4 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 
 ---
 
-## 👣 Visitor Count
-
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/HabibaHany/HabibaHany.svg" />
-</p>
----
-
 **This README was created by Habiba Hany – Front-End Developer & Cybersecurity Enthusiast**
