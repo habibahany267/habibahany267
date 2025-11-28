@@ -85,11 +85,5 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 </p>
 ---
 
-<!-- ✨ Footer -->
-**This README was created by Habiba Hany – Front-End Developer & Cybersecurity Learner**    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Cybersecurity-Projects&theme=radical" />
-  </a>
-</p>
-
----
 
 **This README was created by Habiba Hany – Front-End Developer & Cybersecurity Enthusiast**
