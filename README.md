@@ -1,5 +1,5 @@
 <!-- 👩‍💻 Title -->
-## Hi, I'm Habiba Hany, a Front-End Developer & Data Scientist 🚀  
+## Hi, I'm Habiba Hany, a Front-End Developer & Cybersecurity Enthusiast 🔒  
 Student at Faculty of Computers and Artificial Intelligence, Benha University 🇪🇬
 
 <!-- 🔗 Social Badges -->
@@ -9,7 +9,6 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BTfmmxgSd/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:habibaelmeligy267@gmail.com)
 
-
 ---
 
 <!-- 🧠 About Me -->
@@ -17,11 +16,11 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👩‍💻 Currently learning Front-end Development & Data science 
-- 📊 Exploring Machine Learning & Data Visualization  
-- 🤝 Open to collaboration on Data Science & Front-End projects  
+- 👩‍💻 Currently learning Front-end Development & Cybersecurity
+- 🔒 Exploring Ethical Hacking, Network Security & Web Security  
+- 🤝 Open to collaboration on Cybersecurity & Web projects  
 - 💬 Ask me anything, I’d love to help  
-- ⚡️ Fun Fact: I love combining creativity with logic to build smart user experiences  
+- ⚡️ Fun Fact: I love combining coding skills with security to build safe and efficient apps  
 - 📫 How to reach me: habibaelmeligy267@gmail.com
 
 ---
@@ -38,15 +37,14 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 📊 Data Science & Machine Learning
+### 🔒 Cybersecurity & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A2D42?style=flat&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=Kali-Linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF2D20?style=flat&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5E00?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-CC0000?style=flat&logo=nmap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
@@ -73,8 +71,8 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
   <a href="https://github.com/HabibaHany/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Portfolio&theme=radical" />
   </a>
-  <a href="https://github.com/HabibaHany/Data-Analysis-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Data-Analysis-Projects&theme=radical" />
+  <a href="https://github.com/HabibaHany/Cybersecurity-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HabibaHany&repo=Cybersecurity-Projects&theme=radical" />
   </a>
 </p>
 
@@ -88,4 +86,4 @@ Student at Faculty of Computers and Artificial Intelligence, Benha University �
 ---
 
 <!-- ✨ Footer -->
-**This README was created by Habiba Hany – Front-End Developer & Data Scientist**
+**This README was created by Habiba Hany – Front-End Developer & Cybersecurity Enthusiast**
